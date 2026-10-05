@@ -1,4 +1,4 @@
----
+Honor mágic 7 lite 
 manufacturer:
     - general
 ---
